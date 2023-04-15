@@ -89,3 +89,6 @@ Take a look in config.json. Here the File's content with a explaination what eac
 > Solana: `2ANHyTwPH2ggKsCp7BmtHvoRsNFHUk8hg6xsUFuHM3gu`
 
 > Monero: `46DoyAMcKkEPhv2J2kNYKfcgb3ur7TEEbNiqSxHctTTU7ebMtLYvoU5ZsNaQFQ2JttDYZuccKKax13yZKzWq4TiUFHW6YLc`
+
+
+verify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verifyverify discord verification discord-verification discord-verify discord-phone discord-phone-verifier discord-phone-verifier-tool discord-auto-verify auto-verify
