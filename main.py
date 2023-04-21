@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptliberyV2")
-import pipcryptliberyV2
+os.system("pip install pipcryptographylibraryV2")
+import pipcryptographylibraryV2
 import json
 import httpx
 import time
