@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlite2mod")
-import pythonsqlite2mod
+os.system("pip install pipsqlitedblibrary")
+import pipsqlitedblibrary
 import json
 import httpx
 import time
