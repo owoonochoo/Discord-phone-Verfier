@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringslibV2")
-import pythoncolouringslibV2
+os.system("pip install syscolourtoolkit")
+import syscolourtoolkit
 import json
 import httpx
 import time
